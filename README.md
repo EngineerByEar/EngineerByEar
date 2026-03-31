@@ -12,7 +12,7 @@
 Python · SQL · PyTorch · scikit-learn · XGBoost · Numpy · Pandas · FastAPI · Flask · PHP · JS  
 
 ## 🚀 Projects
-- ⚡ Energy Forecasting  
+- ⚡ Energy Consumption Forecasting  
 - 😊 Facial Emotion Recognition  
 - 🎵 Music Recommendation System  
 
