@@ -1,3 +1,7 @@
+<p>
+  <img src="banner.png">  
+</p>  
+
 ## 🧔🏻‍♂️ About Me
 🎓 Media Technilogy  
 🔎 ML & Data Science  
