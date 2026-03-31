@@ -3,7 +3,7 @@
 </p>  
 
 ## 🧔🏻‍♂️ About Me
-🎓 Media Technilogy  
+🎓 Media Technology  
 🔎 ML & Data Science  
 🧱 End-to-end ML Systems  
 📍 Vienna   
